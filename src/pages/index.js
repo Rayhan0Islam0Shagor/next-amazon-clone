@@ -8,8 +8,11 @@ export default function Home() {
         <title>Amazon 2.0</title>
       </Head>
 
-      {/* {Header} */}
       <Header />
+      <div>
+        {/* banner */}
+        {/* Product */}
+      </div>
     </div>
   );
 }
